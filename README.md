@@ -1,12 +1,12 @@
 ## Oie! Sou o Victor Dias 😁👋
-
- ✍ Atualmente estou estudando POO
- 🚀 Tenho experiência em tecnologias fundamentais tanto no desenvolvimento front-end quanto no back-end
   
   <h1 align="center">
    Sobre mim 👨🏻‍💻
 </h1>
-
+ <div>
+  ✍ Atualmente estou estudando POO<br>
+  🚀 Tenho experiência em tecnologias fundamentais tanto no desenvolvimento front-end quanto no back-end
+ </div>
 
   <br><br>
 <h1 align="center">
