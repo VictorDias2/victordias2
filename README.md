@@ -2,6 +2,13 @@
 
 - ✍ Atualmente estou estudando POO
 - 🚀 Tenho experiência em tecnologias fundamentais tanto no desenvolvimento front-end quanto no back-end
+  
+  <h1 align="center">
+   Sobre mim 👨🏻‍💻
+</h1>
+
+
+  <br><br>
 <h1 align="center">
    🖥️ Tecnologias
 </h1>
@@ -30,6 +37,7 @@
          
 </div>
 <br>
+<p align="center"><i>Valorizo a tecnologia e o aprendizado constante, buscando sempre evoluir e aprimorar minhas habilidades na área.</i></p>
 <br>
 
 
