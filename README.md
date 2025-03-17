@@ -1,5 +1,10 @@
 ## Oie! Sou o Victor Ramalho 😁👋
-  
+
+
+<div align="right">
+    <img alt="meugif" scr="https://cdn.discordapp.com/attachments/858843647646236686/1351247166462496798/meugif.gif?ex=67d9ae7d&is=67d85cfd&hm=c38e2fd65db7e11e657f33abf7293131dbe5386bbff72b6b0c38571981c3d6b5&">
+</div>
+
   <h1 align="center">
    Sobre mim 👨🏻‍💻
 </h1>
