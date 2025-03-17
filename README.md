@@ -62,5 +62,4 @@
   <a href="https://github.com/VictorDias2">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordias2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=ff6e96"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordias2&layout=compact&langs_count=16&theme=dracula&title_color=f79ab4"/>
-</div>
-
+  </div><br>
