@@ -7,7 +7,7 @@
 </h1>
  <div align="center">
     ✍ Atualmente estou estudando POO<br>
-    🚀 Tenho experiência em desenvolvimento front-end e back-end, além<br>
+    🚀 Tenho experiência em desenvolvimento front-end e back-end<br>
     ☁  Conhecimento em ferramentas da AWS para criar soluções eficientes e escaláveis
  </div>
 
