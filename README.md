@@ -1,6 +1,6 @@
 ## Oie! Sou o Victor Ramalho 😁👋
 
-<img align="right" alt="meugif" src="https://github-production-user-asset-6210df.s3.amazonaws.com/177769914/423606156-d1a80d06-17a0-463e-a60f-065e558915bf.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250317%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250317T180308Z&X-Amz-Expires=300&X-Amz-Signature=11d1f07cdd98ae0f39f3da3ca33fe966662145906c412baec4e7fc19d7f6d5d9&X-Amz-SignedHeaders=host" width="162"><br><br><br><br><br><br>
+<img align="right" alt="meugif" src="https://github-production-user-asset-6210df.s3.amazonaws.com/177769914/423606156-d1a80d06-17a0-463e-a60f-065e558915bf.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250317%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250317T180308Z&X-Amz-Expires=300&X-Amz-Signature=11d1f07cdd98ae0f39f3da3ca33fe966662145906c412baec4e7fc19d7f6d5d9&X-Amz-SignedHeaders=host" width="162"><br><br><br><br><br><br><br>
 
   <h1 align="center">
    Sobre mim 👨🏻‍💻
