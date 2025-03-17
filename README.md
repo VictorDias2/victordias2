@@ -5,7 +5,7 @@
 </h1>
  <div>
   ✍ Atualmente estou estudando POO<br>
-  🚀 Tenho experiência em tecnologias fundamentais tanto no desenvolvimento front-end quanto no back-end
+  🚀 Tenho experiência em desenvolvimento front-end e back-end, além de conhecimento em ferramentas da AWS para criar soluções eficientes e escaláveis
  </div>
 
   <br><br>
@@ -34,6 +34,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img width="12" />
          
 </div>
 <br>
@@ -53,4 +55,12 @@
     <a href = "mailto:victorrdias2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
+<hr/>
+<br>
+
+<div align="center">  
+  <a href="https://github.com/VictorDias2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordias2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordias2&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
