@@ -1,6 +1,6 @@
 ## Oie! Sou o Victor Ramalho 😁👋
 
-<img align="right" alt="meugif" src="https://cdn.discordapp.com/attachments/858843647646236686/1351247166462496798/meugif.gif?ex=68072a3d&is=6805d8bd&hm=0ab38de6a468c7f846f4190482e24b263345e8299952f05ccf794fd944b14989&" width="165px"><br><br><br><br><br><br><br>
+<img align="right" alt="meugif" src="https://cdn.discordapp.com/attachments/858843647646236686/1351247166462496798/meugif.gif?ex=68125efd&is=68110d7d&hm=035ab518a5fd8093f70a490ea829a9fe2c5e5c7e99109255ccc151d8432599f9&" width="165px"><br><br><br><br><br><br><br>
 
   <h1 align="center">
    Sobre mim 👨🏻‍💻
