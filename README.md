@@ -7,7 +7,8 @@
 </h1>
  <div align="center">
     🚀 Tenho experiência em desenvolvimento front-end e back-end<br>
-    ☁  Conhecimento em ferramentas da AWS para criar soluções eficientes e escaláveis
+    ☁  Conhecimento em ferramentas da <b>AWS</b> para criar soluções eficientes e escaláveis<br>
+    🎓 Atualmente estou cursando <b>Ciência da Computação</b> na <b>Uninter</b>
  </div>
 
   <br><br>
