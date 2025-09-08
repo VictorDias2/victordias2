@@ -1,6 +1,6 @@
 ## Oie! Sou o Victor Ramalho 😁👋
 
-<img align="right" alt="" src="https://camo.githubusercontent.com/25f0b975db10cd332e8568fa3f6d8814ec3cdd9c1aac49d1e4f2cac0f363bba3/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3835383834333634373634363233363638362f313335313235313139363232383237363338382f57686174734170705f566964656f5f323032352d30332d31375f61745f31342e30372e34302e6769663f65783d36386230393662652669733d363861663435336526686d3d34646633633132393666316338353535326332623565343832346534386531326630643433383863633065323936666231613435633865616165323333333066263d" width="165px"><br><br><br><br><br><br><br>
+<!--<img align="right" alt="" src="https://camo.githubusercontent.com/25f0b975db10cd332e8568fa3f6d8814ec3cdd9c1aac49d1e4f2cac0f363bba3/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3835383834333634373634363233363638362f313335313235313139363232383237363338382f57686174734170705f566964656f5f323032352d30332d31375f61745f31342e30372e34302e6769663f65783d36386230393662652669733d363861663435336526686d3d34646633633132393666316338353535326332623565343832346534386531326630643433383863633065323936666231613435633865616165323333333066263d" width="165px"><br><br><br><br><br><br>--!><br>
 
   <h1 align="center">
    Sobre mim 👨🏻‍💻
@@ -53,7 +53,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/victor-ramalho-117396293/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedln"></img></a>
-    <a href="https://www.instagram.com/victorramalho0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <!--<a href="https://www.instagram.com/victorramalho0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>--!>
     <a href="https://wa.me/5511959620830?text=Ol%C3%A1,%20Victor!%20Tudo%20bem?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=""></img></a>
     <a href = "mailto:victorrdias2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
