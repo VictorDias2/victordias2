@@ -56,13 +56,4 @@
     <!--<a href="https://www.instagram.com/victorramalho0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>--!>
     <a href="https://wa.me/5511959620830?text=Ol%C3%A1,%20Victor!%20Tudo%20bem?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=""></img></a>
     <a href = "mailto:victorrdias2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
-
-<hr/>
-<br>
-
-<div align="center">  
-  <a href="https://github.com/VictorDias2">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victordias2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=ff6e95"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordias2&layout=compact&langs_count=16&theme=dracula&title_color=f79ab4"/>
-  </div><br>
+</p><br>
