@@ -8,7 +8,7 @@
 <div align="center">
     🚀 Experiência em desenvolvimento <b>Front-end</b> e <b>Back-end</b><br>
     ☁ Conhecimento em ferramentas da <b>AWS</b> para criação de soluções eficientes e escaláveis<br>
-    🎓 Cursando <b>Ciência da Computação</b> (<b>2º semestre</b>) na <b>Uninter</b><br>
+    🎓 Cursando <b>Ciência da Computação</b> (<b>5º semestre</b>) na <b>Uninter</b><br>
     🌍 Em formação em <b>Inglês</b>, com foco em comunicação profissional e tecnologia
 </div>
 
